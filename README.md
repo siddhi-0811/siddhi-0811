@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Siddhi 👋
 
-<!--
-**siddhi-0811/siddhi-0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE (AI & Data Science) student.
 
-Here are some ideas to get you started:
+I'm currently learning DSA, Python, Machine Learning and Data Analytics. 
+I like working on small projects to understand what I'm learning and I'm trying to get better at problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+
+- Data Structures & Algorithms
+- Python
+- Machine Learning
+- Data Analysis
+- SQL
+
+## Tools I've worked with
+
+Python • C++ • SQL • Pandas • NumPy • Scikit-learn • MySQL • Flask • Power BI • Git • GitHub
+
+## Projects
+
+- AI-Based Food Redistribution System
+- Third Eye for the Blind
+- EV Smart Station Optimizer
+- Adaptation Gap Mapper
+
+## Currently
+
+- Practicing DSA and LeetCode
+- Learning Machine Learning
+- Building projects
+- Learning Git and GitHub
+
+## Connect with me
+
+- LinkedIn: [Coming soon]
+- LeetCode: [Coming soon]
+
+
