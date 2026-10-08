@@ -33,7 +33,6 @@ Python • C++ • SQL • Pandas • NumPy • Scikit-learn • MySQL • Flask
 
 ## Connect with me
 
-- LinkedIn: [Coming soon]
-- LeetCode: [Coming soon]
+- LinkedIn: www.linkedin.com/in/siddhi-singh08
 
 
