@@ -20,9 +20,8 @@ Python • C++ • SQL • Pandas • NumPy • Scikit-learn • MySQL • Flask
 ## Projects
 
 - AI-Based Food Redistribution System
-- Third Eye for the Blind
 - EV Smart Station Optimizer
-- Adaptation Gap Mapper
+
 
 ## Currently
 
